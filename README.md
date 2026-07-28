@@ -14,7 +14,7 @@
 
 Hi! I'm **Satvik Sharma**, a Senior Software Engineer passionate about building intelligent software and scalable products.
 
-Over the past 4+ years I've worked across startups and large organizations including **Goldman Sachs**, building production-grade applications spanning AI-powered products, developer tools, distributed systems and modern web platforms.
+Over the past 5+ years I've worked across startups and large organizations including **Goldman Sachs**, building production-grade applications spanning AI-powered products, developer tools, distributed systems and modern web platforms.
 
 My recent work has focused heavily on **AI Engineering**, including AI agents, LLM-powered applications, document intelligence, rich text editors, AI-assisted development workflows and developer productivity tools.
 
