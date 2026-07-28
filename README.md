@@ -2,7 +2,8 @@
 
 ### Senior Software Engineer | AI Applications | Full Stack | React | Java
 
-🌐 Portfolio (Coming Soon)
+🌐 [Portfolio](https://satvik-kaushik-sharma.github.io/portfolio/)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/satvik-sharma/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/YOUR_USERNAME)
