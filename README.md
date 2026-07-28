@@ -116,17 +116,14 @@ Worked on internal trading and operational platforms.
 `RAG`
 `Embeddings`
 
-## Databases
-
-`MongoDB`
-`PostgreSQL`
-
 ## DevOps & Cloud
 
 `Docker`
 `AWS`
 `Kubernetes`
 `GitHub Actions`
+`Gitlab CI/CD`
+
 
 ---
 
@@ -149,27 +146,10 @@ Worked on internal trading and operational platforms.
 - AI Agents
 - MCP (Model Context Protocol)
 - AI Coding Assistants
-- Advanced RAG
 - LLM Evaluation
 - Distributed Systems
 - Kubernetes
-- AI Infrastructure
 
-
----
-
-# 💡 Engineering Interests
-
-- Artificial Intelligence
-- Full Stack Engineering
-- Developer Tools
-- Distributed Systems
-- System Design
-- Frontend Architecture
-- Performance Engineering
-- Developer Experience
-- Cloud Native Applications
-- Product Engineering
 
 ---
 
